@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig>
+    <Tracking>
+        <ModelTarget name="xyzCalibration_cube" trackingMode="car" motionHint="adaptive" upVector="0.0 -1.0 0.0" optimizeTrackingFor="default"></ModelTarget>
+    </Tracking>
+    <Assembly name="xyzCalibration_cube" assemblyId="f286a28d449d4666bd82149b6ede2b3f">
+        <Part name="xyzCalibration_cube" translation="0 0 0" rotation="AD: 0 0 1 0"></Part>
+        <EntryPoint name="(none)" trained="yes"></EntryPoint>
+    </Assembly>
+</QCARConfig>

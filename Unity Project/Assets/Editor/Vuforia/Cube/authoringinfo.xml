@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.3">
+        <ModelTarget name="tinker" targetId="6999a65bacef4afc9af806f64d834453" version="13.0" toolVersion="v6.2.3" bbox="-0.050049 -0.050049 -0.000049 0.050049 0.050049 0.100049" trackingMode="car" upVector="0.0 -1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="tinker" assemblyId="2037e0d53ae542c294bcf495f4a8d2c6">
+        <Part name="tinker" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
